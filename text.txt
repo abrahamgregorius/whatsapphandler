@@ -1,0 +1,5 @@
+1. detect/identify each whatsapp package name 
+original 	- com.whatsapp
+aero 		- com.aero
+yowhatsapp	- com.yowhatsapp
+business	- com.whatsapp.w4b
